@@ -1,4 +1,4 @@
-![Vijat GUpta Banner](https://www.veracode.com/sites/default/files/styles/blog_post_resize_960/public/developer-guide-blog-2.png?itok=JQGRVjEX =24x48)
+![Vijat GUpta Banner](https://www.veracode.com/sites/default/files/styles/blog_post_resize_960/public/developer-guide-blog-2.png?itok=JQGRVjEX){:height="24px" width="48px"}
 
 ## 👋 &nbsp;Hey there! I'm Vijay Gupta
 
