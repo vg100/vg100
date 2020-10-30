@@ -1,4 +1,4 @@
-![Vijat GUpta Banner |100x100,20%](https://www.veracode.com/sites/default/files/styles/blog_post_resize_960/public/developer-guide-blog-2.png?itok=JQGRVjEX)
+<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 
 ## 👋 &nbsp;Hey there! I'm Vijay Gupta
 
