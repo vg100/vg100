@@ -1,4 +1,4 @@
-![Vijat GUpta Banner](https://www.mockrabbit.com/wp-content/uploads/2018/12/Become-a-Full-Stack-Developers.jpg)
+![Vijat GUpta Banner](https://www.veracode.com/sites/default/files/styles/blog_post_resize_960/public/developer-guide-blog-2.png?itok=JQGRVjEX)
 
 ## 👋 &nbsp;Hey there! I'm Vijay Gupta
 
