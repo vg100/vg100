@@ -4,7 +4,7 @@
 <a href="mailto:vijaygupta701@gmail.com"><img src="https://img.shields.io/badge/-vijaygupta701@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <!-- <a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> -->
 <!-- <a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a> -->
-<a href="https://www.behance.net"><img src="https://img.shields.io/badge/-vijay-gupta-1769FF?style=flat-square&logo=Behance&logoColor=white"/></a>
+<a href="https://www.behance.net"><img src="https://img.shields.io/badge/-@vg100-1769FF?style=flat-square&logo=Behance&logoColor=white"/></a>
 </p>
 
 ## 👋 &nbsp;Hey there! I'm Vijay Gupta
