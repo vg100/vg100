@@ -13,7 +13,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 ✉️ &nbsp;You can shoot me an email at vijaygupta701@gmail.com I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1CXhilmPzJ7fUTfRHaMMNKPm82IAVBLg6/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1RZJ24QNRUD_p0Fq9WiSO63bKyMIFoUDL/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
